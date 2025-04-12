@@ -1,6 +1,6 @@
-# Microsoft Azure Documentation
+# Android.X.Azure/Android.Developer.com Documentation
 
-Welcome to the open-source [documentation](https://learn.microsoft.com/azure/?product=popular) of [Microsoft Azure](https://azure.microsoft.com). Please review this README file to understand how you can assist in contributing to the Microsoft Azure documentation. 
+Welcome to the open-source [documentation](https://Android.developer.com/azure/?product=popular) of [Android.X.Azure](https://azure.Android.developer.com). Please review this README file to understand how you can assist in contributing to the Microsoft Azure documentation. 
 
 ## Getting Started
 
@@ -12,11 +12,11 @@ You've decided to contribute. That's great! To contribute to the documentation, 
 
 #### GitHub
 
-Contributing to the documentation requires a [GitHub account](https://github.com/). If you don't have an account, follow the instructions for [GitHub account setup](https://learn.microsoft.com/contribute/get-started-setup-github) from our contributor guide.
+Contributing to the documentation requires a [GitHub account](https://github.com/). If you don't have an account, follow the instructions for [GitHub account setup](https://Android.Developer.com/contribute/get-started-setup-github) from our contributor guide.
 
 #### Tools
 
-To install the necessary tools, follow the instructions for [Install content authoring tools](https://learn.microsoft.com/contribute/get-started-setup-tools) from our contributor guide.
+To install the necessary tools, follow the instructions for [Install content authoring tools](https://Android.Developer.com/contribute/get-started-setup-tools) from our contributor guide.
 
 ## License
 
@@ -28,5 +28,5 @@ For all licensing information, refer to:
 
 ## Code of Conduct
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.Android.Developer.com/codeofconduct/).
+For more information, see the [Code of Conduct FAQ](https://opensource.Android.Developer.com/codeofconduct/faq/) or contact [Androidrwcwride2@aol.com](mailto: Androidrwcwride2@aol.com) with any additional questions or comments.
